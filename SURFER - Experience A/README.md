@@ -1,8 +1,26 @@
-# EXPERIENCE A
+#SURFER - Experience A
 
 The aim is to see what the effect is on SURFER output variables such as surface temperature if we change the values of the coefficients for carbon fluxes between reservoirs, as well as ocean thermal conductivity. This variation in coefficients is designed to roughly simulate an AMOC shutdown.
 
-We're looking for an initial quantitative analysis of the variations this implies in SURFER as it stands in v2.0.
+We're looking for an initial quantitative analysis of the variations this implies in SURFER as it stands in v2.0 and then in the Victor Couplet's version with three oceanic box.
+
+#### Syntax of the experiences
+
+Experience A stands for the general first experiment class done with SURFER in this master's thesis
+
+- Experience A.0 stands for the Experience A performs with the SURFER v2.0 of Montero (2022)
+
+  - Experience A.0.A stands for the run with different values of $k_{A\to U}$ and $k_{U\to D}$
+
+  - Experience A.0.B stands for the run with different values of $\gamma$
+
+- Experience A.1 stands for the Experience A performs with the SURFER v3.0 of Couplet
+
+#### Syntax of the figures
+
+A.0.A_05.svg stands for complete_experience_name_coefmod.svg so A.0.A_05 stands for an experience with a coefficient modulator of 50%
+
+---
 
 # SURFER
 
