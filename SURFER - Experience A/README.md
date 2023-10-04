@@ -1,4 +1,5 @@
 ![A 0 A_05_double_plot](https://github.com/AmauryLaridon/LPHYS2299-Master-s-Thesis/assets/58213378/6ae1d5f2-5400-484e-849b-8cd08291bdbb)
+
 # SURFER - Experience A
 
 The aim is to see what the effect is on SURFER output variables such as surface temperature if we change the values of the coefficients for carbon fluxes between reservoirs, as well as ocean thermal conductivity. This variation in coefficients is designed to roughly simulate an AMOC shutdown.
@@ -14,6 +15,8 @@ Experience A stands for the general first experiment class done with SURFER in t
   - Experience A.0.A stands for the run with different values of $k_{A\to U}$ and $k_{U\to D}$
 
   - Experience A.0.B stands for the run with different values of $\gamma$
+
+  - Experience A.0.C stands for the run with different values of $k_{A\to U}$,$k_{U\to D}$ and $\gamma$. All these three values are reduced compare to their control's values in order to emulate a collapse of the AMOC.
 
 - Experience A.1 stands for the Experience A performs with the SURFER v3.0 of Couplet
 
