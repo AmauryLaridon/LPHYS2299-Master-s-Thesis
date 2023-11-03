@@ -1,0 +1,14 @@
+{
+  "folders": [
+	{
+		"path": "../../../.."
+	}
+],
+  "settings": {
+    "liveServer.settings.multiRootWorkspaceName": "LPHYS2163 - Atmosphere and Ocean : physics and dynamics",
+    "[python]": {
+      "editor.defaultFormatter": "ms-python.black-formatter"
+    },
+    "python.formatting.provider": "none"
+  }
+}
