@@ -10,6 +10,8 @@ We present the SURFER code and examples to reproduce all figures in the paper us
 
 ### What is new in the version 3.0
 
+The version 3.0 has been developped by Victor Couplet.
+
 - Tipping cascade module 
     - Interacting tipping elements connected to the temperature anomalies of the climate model
     - Contribution of the interacting tipping element to the radiative forcing in the climate model
