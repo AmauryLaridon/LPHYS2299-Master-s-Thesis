@@ -10,7 +10,7 @@ We present the SURFER code and examples to reproduce all figures in the paper us
 
 ### What is new in the version 4.0
 
-- AMOC-GIS Calibration Module
+- AMOC-GIS Cascade Calibration Module
 - Representation of the impacts on the carbon cycle of an AMOC collapse
 
 ### Requisites to running the jupyter notebook
