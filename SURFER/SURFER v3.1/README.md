@@ -1,5 +1,5 @@
 ---
-# SURFER v3.0
+# SURFER v3.1
 ---
 
 SURFER: a simple climate model linking CO2 emissions and Solar Radiation Management to sea level rise and ocean acidification.
@@ -8,7 +8,7 @@ For a full explanation of the model please check: https://egusphere.copernicus.o
 
 We present the SURFER code and examples to reproduce all figures in the paper using a **jupyter notebook**: https://jupyter.org/.
 
-### What is new in the version 3.0
+### What is new in the version 3.1
 
 - Tipping cascade module 
     - Interacting tipping elements connected to the temperature anomalies of the climate model
@@ -22,13 +22,6 @@ We present the SURFER code and examples to reproduce all figures in the paper us
         - AWSI
         - AMAZ
         - PERM
-- Ugraded version of the carbon cycle model
-    - Upgraded version of the ocean's model
-        - Addition of an intermediate layer of the ocean
-        - Addition of a sediments layer
-- Upgraded version of the climate model
-    - Addition of an intermediate layer of the ocean
-- Addition of a $CH_4$ model with emissions and concentrations  
 
 ### Requisites to running the jupyter notebook
 
