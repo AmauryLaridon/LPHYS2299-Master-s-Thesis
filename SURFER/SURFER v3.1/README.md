@@ -4,7 +4,7 @@
 
 SURFER: a simple climate model linking CO2 emissions and Solar Radiation Management to sea level rise and ocean acidification.
 
-For a full explanation of the model please check: https://egusphere.copernicus.org/preprints/2022/egusphere-2022-135/
+For a full explanation of the model please contact Victor Couplet from UCLouvain. 
 
 We present the SURFER code and examples to reproduce all figures in the paper using a **jupyter notebook**: https://jupyter.org/.
 
