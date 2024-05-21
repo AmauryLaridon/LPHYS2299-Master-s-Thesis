@@ -26,3 +26,5 @@ The **primary scientific research question** of this thesis is to **determine th
 - *SURFER* holds various versions of SURFER used for this thesis, including version v3.2, which integrates AGTCCM with SURFER v3.1 through a coherent parameterization of the impact of AMOC collapse on the carbon cycle.
 
 - *cGenie Simulations* contains scripts associated with the analysis of three AMOC hysteresis experiments conducted by J. Gérard for this thesis.
+
+- *Thesis Figures* contains all the figures used in the *LPHYS2299__Thesis.pdf*.
