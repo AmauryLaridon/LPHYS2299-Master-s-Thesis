@@ -1,5 +1,5 @@
 ---
-# SURFER v4.0
+# SURFER v3.2
 ---
 
 SURFER: a simple climate model linking CO2 emissions and Solar Radiation Management to sea level rise and ocean acidification.
@@ -8,20 +8,14 @@ For a full explanation of the model please check: https://egusphere.copernicus.o
 
 We present the SURFER code and examples to reproduce all figures in the paper using a **jupyter notebook**: https://jupyter.org/.
 
-### What is new in the version 4.0
+### What is new in the version 3.2
 
 - AMOC-GIS Cascade Calibration Module
 - Representation of the impacts on the carbon cycle of an AMOC collapse
 
 ### Requisites to running the jupyter notebook
 
-The jupyter notebook containing the code and examples has been written in The Julia Programming Language and uses version 1.7.2. To install Julia follow instructions in https://julialang.org/
-
-Additional Julia packages are used and may need to be installed: `DifferentialEquations`, `Plots`, `DelimitedFiles`, `Interpolations`, `Roots`, `LaTeXStrings`. Packages in Julia can be installed with the following comands:
-
-`using Pkg`
-
-`Pkg.add("Package Name")`
+The jupyter notebook containing the code and examples has been written in Python
 
 ### Data from other sources
 
