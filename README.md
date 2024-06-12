@@ -11,7 +11,7 @@
 
 **This repository contains all the scripts and data used for my Master's Thesis.**
 
-The final version of the Thesis can be found in ***LPHYS2299__Thesis.pdf***
+The final version of the Thesis can be found in ***Laridon_39611800_2024_compressed.pdf***
 
 ## What is the thesis about ? 
 
